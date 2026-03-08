@@ -1,0 +1,10 @@
+{
+  "name": "fukuoka-travel",
+  "dependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "lucide-react": "latest",
+    "clsx": "latest",
+    "tailwind-merge": "latest"
+  }
+}
