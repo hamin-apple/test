@@ -1,0 +1,3 @@
+signal	init	t0	t1
+i_pin0	0	1	
+i_pin1<1:0>	0		1
